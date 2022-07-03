@@ -1,9 +1,9 @@
 # Group - 4 Weekend Project
 
-Prerna Dhiman (buggsaff#3439)
-Madhu Sai Reddy Sama (Madhu#3280)
-Wikipaul (Wikipaul#5897)
-yvnagendrababu (yvnagendrababu#2409)
+Prerna Dhiman (buggsaff#3439) <br>
+Madhu Sai Reddy Sama (Madhu#3280) <br>
+Wikipaul (Wikipaul#5897)<br>
+yvnagendrababu (yvnagendrababu#2409) <br>
 
 
 # Advanced Sample Hardhat Project
